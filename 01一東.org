@@ -1,4 +1,7 @@
-# 一東
+#+STARTUP: content
+#+STARTUP: indent
+
+* 一東
 
 雲對雨，雪對風，晚照對晴空。
 來鴻對去燕，宿鳥對鳴蟲。
