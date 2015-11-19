@@ -1,7 +1,7 @@
 #+STARTUP: content
 #+STARTUP: indent
 
-* 八齊
+* 上八齊
 
 岩對岫，澗對溪，遠岸對危堤。
 

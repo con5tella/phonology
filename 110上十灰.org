@@ -1,7 +1,7 @@
 #+STARTUP: content
 #+STARTUP: indent
 
-* 十灰
+* 上十灰
 
 增對損，閉對開，碧草對蒼苔。
 

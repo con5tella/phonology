@@ -1,7 +1,7 @@
 #+STARTUP: content
 #+STARTUP: indent
 
-* 一東
+* 上一東
 
 雲對雨，雪對風，晚照對晴空。
 

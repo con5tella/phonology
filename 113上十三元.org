@@ -1,7 +1,7 @@
 #+STARTUP: content
 #+STARTUP: indent
 
-* 十三元
+* 上十三元
 
 幽對顯，寂對喧，柳岸對桃源。
 

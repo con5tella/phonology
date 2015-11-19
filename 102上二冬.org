@@ -1,7 +1,7 @@
 #+STARTUP: content
 #+STARTUP: indent
 
-* 二冬
+* 上二冬
 
 春對夏，秋對冬，暮鼓對晨鐘。
 

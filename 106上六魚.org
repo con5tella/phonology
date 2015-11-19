@@ -1,7 +1,7 @@
 #+STARTUP: content
 #+STARTUP: indent
 
-* 六魚
+* 上六魚
 
 無對有，實對虛，作賦對觀書。
 

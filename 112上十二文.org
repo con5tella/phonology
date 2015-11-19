@@ -1,7 +1,7 @@
 #+STARTUP: content
 #+STARTUP: indent
 
-* 十二文
+* 上十二文
 家對國，武對文，四輔對三軍。
 
 九經對三史，菊馥對蘭芬。

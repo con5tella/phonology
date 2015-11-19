@@ -1,7 +1,7 @@
 #+STARTUP: content
 #+STARTUP: indent
 
-* 七虞
+* 上七虞
 
 金對玉，寶對珠，玉兔對金烏。
 

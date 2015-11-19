@@ -1,7 +1,7 @@
 #+STARTUP: content
 #+STARTUP: indent
 
-* 十四寒
+* 上十四寒
 多對少，易對難，虎踞對龍蟠。
 
 龍舟對鳳輦，白鶴對青鸞。

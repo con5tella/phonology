@@ -1,7 +1,7 @@
 #+STARTUP: content
 #+STARTUP: indent
 
-* 十一真
+* 上十一真
 
 邪對正，假對真，獬豸對麒麟。
 

@@ -1,7 +1,7 @@
 #+STARTUP: content
 #+STARTUP: indent
 
-* 十五刪
+* 上十五刪
 興對廢，附對攀，露草對霜菅。
 
 歌廉對借寇，習孔對希顏。
