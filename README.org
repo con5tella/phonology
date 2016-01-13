@@ -1,6 +1,6 @@
 * Phonology 音韻學
 - 音韻學相關知識
-** kuangxyonh cji yonh
-- polyhedron 版擬音，廣韻音系韻母攝、聲母及相應國際音標。
-** enlighten rhythm
-- org-mode 版《聲律啓蒙》。
+** Kuangxyonh cji yonh 廣韻之韻
+- Polyhedron 版擬音，廣韻音系韻母攝、聲母及相應國際音標。
+** Enlighten rhythm 聲律啓蒙
+- Org-mode 版《聲律啓蒙》。
