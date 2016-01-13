@@ -1,0 +1,182 @@
+* 廣韻韻目攝
+| 韻攝 | 平        | 上         | 去        | 入       |
+|------+-----------+------------+-----------+----------|
+| 通   | 東 tung   | 董 tungx   | 送 sungh  | 屋 quk   |
+|      | 冬 tuung  | 〇         | 宋 suungh | 沃 quuk  |
+|      | 鍾 cjyung | 腫 cjyungx | 用 jyungh | 燭 cjyuk |
+| 江   | 江 krung  | 講 krungx  | 絳 krungh | 覺 kruk  |
+| 止   | 支 cje    | 紙 cjex    | 寘 cjeh   |          |
+|      | 脂 cjii   | 旨 cjiix   | 至 cjiih  |          |
+|      | 之 cji    | 止 cjix    | 志 cjih   |          |
+|      | 微 myoi   | 尾 myoix   | 未 myoih  |          |
+| 遇   | 魚 ngio   | 語 ngiox   | 御 ngioh  |          |
+|      | 虞 ngyo   | 麌 ngyox   | 遇 ngyoh  |          |
+|      | 模 mo     | 姥 mox     | 暮 moh    |          |
+| 蟹   | 齊 ze     | 薺 zex     | 霽 ceh    |          |
+|      |           |            | 祭 cied   |          |
+|      |           |            | 泰 thad   |          |
+|      | 佳 kre    | 蟹 ghrex   | 卦 krueh  |          |
+|      | 皆 krai   | 駭 ghraix  | 怪 kruaih |          |
+|      |           |            | 夬 kruad  |          |
+|      | 灰 huai   | 賄 huaix   | 隊 duaih  |          |
+|      | 咍 hai    | 海 haix    | 代 daih   |          |
+|      |           |            | 廢 pyad   |          |
+| 臻   | 真 cjin   | 軫 cjinx   | 震 cjinh  | 質 cjit  |
+|      | 諄 cjyn   | 準 cjynx   | 稕 cjynh  | 術 zsjyt |
+|      | 臻 crin   |            | 櫛 crit   |          |
+|      | 文 myon   | 吻 myonx   | 問 myonh  | 物 myot  |
+|      | 欣 hion   | 隱 qionx   | 焮 hionh  | 迄 hiot  |
+| 山   | 元 ngyan  | 阮 ngyanx  | 愿 ngyanh | 月 ngyat |
+| 臻   | 魂 ghuon  | 混 ghuonx  | 溷 ghuonh | 沒 muot  |
+|      | 痕 ghon   | 狠 ghonx   | 恨 ghonh  |          |
+| 山   | 寒 ghan   | 旱 ghanx   | 翰 ghanh  | 曷 ghat  |
+|      | 桓 ghuan  | 緩 ghuanx  | 換 ghuanh | 末 muat  |
+|      | 刪 sran   | 潸 sranx   | 諫 kranh  | 黠 ghret |
+|      | 山 sren   | 產 srenx   | 襇 krenh  | 鎋 ghrat |
+|      | 先 sen    | 銑 senx    | 霰 senh   | 屑 set   |
+|      | 仙 sien   | 獮 sienx   | 綫 sienh  | 薛 siet  |
+| 效   | 蕭 seu    | 筱 seux    | 嘯 seuh   |          |
+|      | 宵 sieu   | 小 sieux   | 笑 sieuh  |          |
+|      | 肴 ghrau  | 巧 khraux  | 效 ghrauh |          |
+|      | 豪 ghau   | 皓 ghaux   | 號 ghauh  |          |
+| 果   | 歌 ka     | 哿 kax     | 個 kah    |          |
+|      | 戈 kua    | 果 kuax    | 過 kuah   |          |
+| 假   | 麻 mra    | 馬 mrax    | 禡 mrah   |          |
+| 宕   | 陽 jang   | 養 jangx   | 漾 jangh  | 藥 jak   |
+|      | 唐 dang   | 盪 dangx   | 宕 dangh  | 鐸 dak   |
+| 梗   | 庚 krang  | 梗 krangx  | 映 qiengh | 陌 mrak  |
+|      | 耕 kreng  | 耿 krengx  | 諍 crengh | 麥 mrek  |
+|      | 淸 chieng | 靜 ziengx  | 勁 kjengh | 昔 siek  |
+|      | 靑 cheng  | 迥 ghuengx | 徑 kengh  | 錫 sek   |
+| 曾   | 蒸 cjing  | 拯 cjingx  | 証 cjengh | 職 cjik  |
+|      | 登 tong   | 等 tongx   | 嶝 tongh  | 德 tok   |
+| 流   | 尤 iu     | 有 iux     | 宥 iuh    |          |
+|      | 侯 ghu    | 厚 ghux    | 候 ghuh   |          |
+|      | 幽 qy     | 黝 qyx     | 幼 qyh    |          |
+| 深   | 侵 chim   | 寢 chimx   | 沁 chimh  | 緝 chip  |
+| 咸   | 覃 dom    | 感 komx    | 勘 khomh  | 合 ghop  |
+|      | 談 dam    | 敢 kamx    | 闞 khamh  | 盍 ghap  |
+|      | 鹽 jem    | 琰 jemx    | 豔 jemh   | 葉 jep   |
+|      | 添 them   | 忝 themx   | 掭 themh  | 帖 thep  |
+|      | 咸 ghrem  | 豏 ghremx  | 陷 ghremh | 洽 ghrep |
+|      | 銜 ghram  | 檻 ghramx  | 鑑 kramh  | 狎 ghrap |
+|      | 嚴 ngiam  | 儼 ngiamx  | 釅 ngiamh | 業 ngiap |
+|      | 凡 byam   | 範 byamx   | 梵 byamh  | 乏 byap  |
+
+* 廣韻韻母
+| 攝 | 韻             |      | 一等       | 二等        | 三等         | 四等      |
+|----+----------------+------+------------+-------------+--------------+-----------|
+| 通 | 東、鍾、冬     | 開合 | 東 ung 翁  |             | 鍾 yung 雍   |           |
+|    |                | 開合 | 屋 uk 屋   |             | 燭 yuk       |           |
+|    |                | 開合 | 冬 uung    |             | 東 iung      |           |
+|    |                | 開合 | 沃 uuk 沃  |             | 屋 iuk 郁    |           |
+| 江 | 江             | 開合 |            | 江 rung 胦  |              |           |
+|    |                | 開合 |            | 覺 ruk 渥   |              |           |
+| 止 | 支、脂、之、微 | 開口 |            |             | 支 ie 漪     |           |
+|    |                |      |            |             | 支 je        |           |
+|    |                |      |            |             | 脂 ii        |           |
+|    |                |      |            |             | 脂 jii 伊    |           |
+|    |                |      |            |             | 之 i 醫      |           |
+|    |                |      |            |             | 微 ioi 依    |           |
+|    |                | 合口 |            |             | 支 ye 逶     |           |
+|    |                |      |            |             | 支 jye       |           |
+|    |                |      |            |             | 脂 yi        |           |
+|    |                |      |            |             | 脂 jyi       |           |
+|    |                |      |            |             | 微 yoi 威    |           |
+| 遇 | 模、魚、虞     | 開合 | 模 o 鳥    |             | 魚 io 於     |           |
+|    |                |      |            |             | 虞 yo 紆     |           |
+| 蟹 | 咍、灰、皆、   | 開口 | 咍 ai 哀   | 皆 rai      |              | 齊 e 鷖   |
+|    | 佳、齊、泰、   |      |            | 佳 re 娃    |              |           |
+|    | 夬、祭、廢     | 合口 | 灰 uai 煨  | 皆 ruai 崴  |              | 齊 ue 烓  |
+|    |                |      |            | 佳 rue 蛙   |              |           |
+|    |                | 開口 | 泰 ad 藹   | 夬 rad 喝   | 廢 iad       |           |
+|    |                |      |            |             | 祭 ied 瘞    |           |
+|    |                |      |            |             | 祭 jed       |           |
+|    |                | 合口 | 泰 uad 薈  | 夬 ruad     | 廢 yad 穢    |           |
+|    |                |      |            |             | 祭 yed       |           |
+| 臻 | 痕、魂、真、   | 開口 | 痕 on 恩   |             | 真臻 in      |           |
+|    | 臻、諄、欣、   |      |            |             | 真 jin 因    |           |
+|    | 文             |      |            |             | 欣 ion 殷    |           |
+|    |                | 合口 | 魂 uon 溫  |             | 真諄 yn 贇   |           |
+|    |                |      |            |             | 諄 jyn       |           |
+|    |                |      |            |             | 文 yon 煴    |           |
+|    |                | 開口 | 沒 ot      |             | 質櫛 it 乙   |           |
+|    |                |      |            |             | 質 jit 一    |           |
+|    |                |      |            |             | 迄 iot       |           |
+|    |                | 合口 | 沒 uot 腽  |             | 質術 yt      |           |
+|    |                |      |            |             | 術 jyt       |           |
+|    |                |      |            |             | 物 yot 鬱    |           |
+| 山 | 寒、桓、刪、   | 開口 | 寒 an 安   | 刪 ran      | 元 ian 焉    | 先 en 煙  |
+|    | 山、元、       |      |            | 山 ren 黰   | 仙 ien 嫣    |           |
+|    | 仙、先         |      |            |             | 仙 jen       |           |
+|    |                | 合口 | 桓 uan 剜  | 刪 ruan 彎  | 元 yan 冤    | 先 uen 淵 |
+|    |                |      |            | 山 ruen     | 仙 yen       |           |
+|    |                |      |            |             | 仙 jyen 娟   |           |
+|    |                | 開口 | 曷 at 遏   | 鎋 rat      | 月 iat 謁    | 屑 et 噎  |
+|    |                |      |            | 黠 ret 軋   | 薛 iet       |           |
+|    |                |      |            |             | 薛 jet       |           |
+|    |                | 合口 | 末 uat 斡  | 鎋 ruat     | 月 yat       | 屑 uet 抉 |
+|    |                |      |            | 黠 ruet 穵  | 薛 yet 噦    |           |
+|    |                |      |            |             | 薛 jyet 妜   |           |
+| 效 | 豪、肴、宵、蕭 | 開合 | 豪 au 鏖   | 肴 rau 坳   | 宵 ieu 妖    | 蕭 eu 幺  |
+|    |                |      |            |             | 宵 jeu 腰    |           |
+| 果 | 歌、戈         | 開口 | 歌 a 阿    |             | 戈 ia        |           |
+|    |                | 合口 | 戈 ua 倭   |             | 戈 ya        |           |
+| 假 | 麻             | 開口 |            | 麻 ra 鴉    | 麻 ia        |           |
+|    |                | 合口 |            | 麻 rua 洼   |              |           |
+| 宕 | 唐、陽         | 開口 | 唐 ang 佒  |             | 陽 iang 央   |           |
+|    |                | 合口 | 唐 uang 汪 |             | 陽 yang      |           |
+|    |                | 開口 | 鐸 ak 惡   |             | 藥 iak 約    |           |
+|    |                | 合口 | 鐸 uak 蠖  |             | 藥 yak 嬳    |           |
+| 梗 | 庚、耕、清、青 | 開口 |            | 庚 rang     | 庚清 ieng 英 | 青 eng    |
+|    |                |      |            | 耕 reng 甖  | 清 jeng 嬰   |           |
+|    |                | 合口 |            | 庚 ruang    | 庚清 yeng    | 青 ueng   |
+|    |                |      |            | 耕 rueng 泓 | 清 jyeng 縈  |           |
+|    |                | 開口 |            | 陌 rak 啞   | 陌昔 iek     | 鍚 ek     |
+|    |                |      |            | 麥 rek 厄   | 昔 jek 益    |           |
+|    |                | 合口 |            | 陌 ruak 䪝  | 陌昔 yek 擭  | 錫 uek    |
+|    |                |      |            | 麥 ruek     | 昔 jyek      |           |
+| 曾 | 登、蒸         | 開口 | 登 ong     |             | 蒸 ing 膺    |           |
+|    |                | 合口 | 登 uong    |             |              |           |
+|    |                | 開口 | 德 ok      |             | 職 ik 憶     |           |
+|    |                | 合口 | 德 uok     |             | 職 yk        |           |
+| 流 | 侯、尤、幽     | 開合 | 侯 u 歐    |             | 尤 iu 憂     |           |
+|    |                |      |            |             | 幽 y 幽      |           |
+| 深 | 侵             | 開口 |            |             | 侵 im 音     |           |
+|    |                |      |            |             | 侵 jim 愔    |           |
+|    |                | 開口 |            |             | 緝 ip 邑     |           |
+|    |                |      |            |             | 緝 jip 揖    |           |
+| 咸 | 談、銜、咸、   | 開口 | 談 am      | 銜 ram      | 嚴 iam 腌    | 添 em     |
+|    | 嚴、鹽、       |      |            | 咸 rem 黯   | 鹽 iem 淹    |           |
+|    | 添、覃         |      |            |             | 鹽 jem 饜    |           |
+|    |                | 合口 |            |             | 凡 yam       |           |
+|    |                | 開口 | 盍 ap 鰪   | 狎 rap 鴨   | 業 iap 殗    | 怗 ep     |
+|    |                |      |            | 洽 rep 凹   | 葉 iep       |           |
+|    |                |      |            |             | 葉 jep 靨    |           |
+|    |                | 合口 |            |             | 乏 yap       |           |
+|    |                | 開口 | 覃 om 諳   |             |              |           |
+|    |                | 開口 | 合 op 姶   |             |              |           |
+
+* 聲母
+|      | 脣音 | 舌音 |       |    | 齒音 |         |      | 牙音 | 喉音 |        |
+|------+------+------+-------+----+------+---------+------+------+------+--------|
+|      | 幫組 | 端組 | 知組  |    | 精組 | 莊組    | 章組 | 見組 |      |        |
+|------+------+------+-------+----+------+---------+------+------+------+--------|
+| 全清 | 幫   | 端   | 知    |    | 精   | 莊      | 章   | 見   | 影   |        |
+|      | p    | t    | tr    |    | c    | cr      | cj   | k    | q    |        |
+|      | p    | t    | ȶ,ʈ   |    | ts   | tʂ/tʃ   | tɕ   | k    | ʔ    |        |
+| 次清 | 滂   | 透   | 徹    |    | 清   | 初      | 昌   | 谿   |      |        |
+|      | ph   | th   | thr   |    | ch   | chr     | chj  | kh   |      |        |
+|      | pʰ   | tʰ   | ȶʰ,ʈʰ |    | tsʰ  | tʂʰ/tʃʰ | tɕʰ  | kʰ   |      |        |
+| 全濁 | 並   | 定   | 澄    |    | 從   | 崇      | 常   | 群   |      |        |
+|      | b    | d    | dr    |    | z    | zr      | zj   | g    |      |        |
+|      | b    | d    | ȡ,ɖ   |    | dz   | dʐ/dʒ   | dʑ/ʑ | g    |      |        |
+| 次濁 | 明   | 泥   | 娘    | 來 |      |         | 日   | 疑   |      | 云，以 |
+|      | m    | n    | nr    | l  |      |         | nj   | ng   |      | 0,j    |
+|      | m    | n    | ȵ,ɳ   | l  |      |         | ȵ/ȵʑ | ŋ    |      | (ɦi),j |
+| 全清 |      |      |       |    | 心   | 生      | 書   |      | 曉   |        |
+|      |      |      |       |    | s    | sr      | sj   |      | h    |        |
+|      |      |      |       |    | s    | ʂ/ʃ     | ɕ    |      | x/h  |        |
+| 全濁 |      |      |       |    | 邪   | 俟      | 船   |      | 匣   |        |
+|      |      |      |       |    | zs   | zsr     | zsj  |      | gh   |        |
+|      |      |      |       |    | z    | ʐ/ʒ     | ʑ/dʑ |      | ɣ/ɦ  |        |
