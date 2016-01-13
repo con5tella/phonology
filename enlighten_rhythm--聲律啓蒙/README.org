@@ -1,7 +1,7 @@
 #+STARTUP: content
 #+STARTUP: indent
 
-* Enlighten of Rhythm
+* Enlighten Rhythm
 * 聲律啓蒙
 - 就是車萬育那本「雲對雨，雪對風，晚照對晴空……」
 - 英文名字是我瞎編的……
