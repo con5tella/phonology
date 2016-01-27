@@ -1,146 +1,72 @@
 
-
-趙錢孫李 周吳鄭王
-馮陳褚衛 蔣沈韓楊
-朱秦尤許 何呂施張
-孔曹嚴華 金魏陶姜
-戚謝鄒喻 柏水竇章
-雲蘇潘葛 奚范彭郎
-魯韋昌馬 苗鳳花方
-俞任袁柳 酆鮑史唐
-費廉岑薛 雷賀倪湯
-滕殷羅畢 郝鄔安常
-樂于時傅 皮卞齊康
-伍余元卜 顧孟平黃
-和穆蕭尹 姚邵湛汪
-祁毛禹狄 米貝明臧
-計伏成戴 談宋茅龐
-熊紀舒屈 項祝董梁
-杜阮藍閔 席季麻強
-賈路婁危 江童顏郭
-梅盛林刁 鍾徐邱駱
-高夏蔡田 樊胡凌霍
-虞萬支柯 昝管盧莫
-經房裘繆 干解應宗
-丁宣賁鄧 郁單杭洪
-包諸左石 崔吉鈕龔
-程嵇邢滑 裴陸榮翁
-荀羊於惠 甄麴家封
-芮羿儲靳 汲邴糜松
-井段富巫 烏焦巴弓
-牧隗山谷 車侯虙蓬
-全郗班仰 秋仲伊宮
-甯仇欒暴 甘鈄厲戎
-祖武符劉 景詹束龍
-葉幸司韶 郜黎薊薄
-印宿白懷 蒲邰從鄂
-索咸籍賴 卓藺屠蒙
-池喬陰鬱 胥能蒼雙
-聞莘黨翟 譚貢勞逄
-姬申扶堵 冉宰酈雍
-郤璩桑桂 濮牛壽通
-邊扈燕冀 郟浦尚農
-溫別莊晏 柴瞿閻充
-慕連茹習 宦艾魚容
-向古易慎 戈廖庾終
-暨居衡步 都耿滿弘
-匡國文寇 廣祿闕東
-歐殳沃利 蔚越夔隆
-師鞏厙聶 晁勾敖融
-冷訾辛闞 那簡饒空
-曾毋沙乜 養鞠須豐
-巢關蒯相 查后荊紅
-游竺權逯 蓋益桓公
-万俟司馬 上官歐陽
-夏侯諸葛 聞人東方
-赫連皇甫 尉遲公羊
-澹臺公冶 宗政濮陽
-淳于單于 太叔申屠
-公孫仲孫 軒轅令狐
-鐘離宇文 長孫慕容
-鮮于閭丘 司徒司空
-丌官司寇 仉督子車
-顓孫端木 巫馬公西
-漆雕樂正 壤駟公良
-拓跋夾谷 宰父穀粱
-晉楚閆法 汝鄢涂欽
-段干百里 東郭南門
-呼延歸海 羊舌微生
-岳帥緱亢 況郈有琴
-梁丘左丘 東門西門
-商牟佘佴 伯賞南宮
-墨哈譙笪 年愛陽佟
-第五言福 百家姓終
-	
-
-Drieux Zien Suon Lix, Cju Ngo Driengh Yang.
-Biung Drin Thriox Yed, Ciangx Sjimx Ghan Jang.
-Cjyo Zin Iu Hiox, Gha Liox Sje Triang.
-Khungx Zau Ngiam Ghruah, Kim Ngyoih Dau Kiang.
-Chek Zsiah Criu Jyoh, Prak Sjyix Duh Cjang.
-Yon So Phuan Kat, Ghe Byamx Brang Lang.
-Lox Yoi Chjang Mrax, Mieu Biungh Hrua Pyang.
-Jyo Njim Yan Liux, Phiung Braux Srix Dang.
-Byoih Liem Zrim Siet, Luai Ghah Nge Thang.
-Dong Qion La Pjit, Hak Qox Qan Zjang.
-Ngruk Yo Zji Pyoh, Bie Bienh Ze Khang.
-Ngox Jo Ngyan Puk, Koh Mrangh Bieng Ghuang.
-Ghua Miuk Seu Jynx, Jeu Zjeuh Dremx Quang.
-Gii Mau Yox Dek, Mex Pad Mieng Cang.
-Keh Biuk Zjeng Taih, Dam Suungh Mrau Brung.
-Iung Kix Sjo Kyot, Ghrungx Cjuk Tungx Liang.
-Dox Ngyanx Lam Minx, Zsiek Kjyih Mra Giang.
-Krax Loh Lu Ngye, Krung Dung Ngran Kuak.
-Muai Zjengh Lim Teu, Cjyung Zsio Khiu Lak.
-Kau Ghrax Chad Den, Byan Gho Ling Huak.
-Ngyo Myanh Cje Ka, Comx Kuanx Lo Mak.
-Keng Byang Giu Myh, Kan Ghrex Qing Cuung.
-Teng Syen Puon/Byoi/Pieh Dongh, Qiuk Zjenx Ghang Ghung.
-Prau Cjo Cax Zjek, Chuai Kjit Nriux Kyung.
-Drieng Ghe Gheng Ghruet, Buai Liuk Yeng Qung.
-Zsyn Jang Qio Ghueh, Cjin Khiuk Kra Pyung.
-Njyed Ngeh Drio Kionh, Kip Piengx Mie Zsyung.
-Ciengx Duanh Piuh Myo, Qo Cieu Pra Kiung.
-Miuk Nguaix Sren Kuk, Chja Ghu Biuk Bung.
-Zyen Thrii Pran Ngiangx, Chiu Driungh Qjii Kiung.
-Nengh Giu Luan Bauh, Kam Thux Lied Njung.
-Cox Myox Byo Liu, Kiengx Cjem Sjyuk Lyung.
-Jep Ghrengx Si Zjeu, Kauh Le Keh Bak.
-Qjinh Siuk Brak Ghruai, Bo Thai Zyung Ngak.
-Sak Ghrem Ziek Lad, Truk Linh Do Mung.
-Drie Gieu Qim Qyot, Sio Naih Chang Srung.
-Myon Srin Tangx Drak/Dek, Dom Kungh Lau Brung.
-Ki Sjin Byo Tox, Njemx Caix Lek Qyung.
-Khiek Gio Sang Kueh, Puk Ngiu Zjux Thung.
-Pen Ghox Qen Kiih, Krep Phox Zjangh Nuung.
-Quon Biet Criang Qranh, Zre Gyo Jem Chjung.
-Moh Lien Njo Zsip, Ghruanh Ngad Ngio Jyung.
-Sjangh Kox Jek Zjinh, Kua Liuh Jyox Cjung.
-Kiot Kio Ghrang Boh, To Krengx Muanx Ghuong.
-Khyang Kuok Myon Khuh, Kuangx Luk Khyat Tung.
-Qu Zjyo Quuk Liih, Qyot Yat Gyi Liung.
-Srii Kyungx Sjah Nriep, Drieu Ku Ngau Jung.
-Lengx Cie Sin Khamh, Na Krenx Njeu Khung.
-Cong Myo Sra Mjax, Jangx Kiuk Syo Phiung.
-Zrau Kruan Khruaih Siangh, Zra Ghux Kieng Ghung.
-Ju Triuk Gyen Lyuk, Kap Qjek Ghuan Kung.
-Mok-gioi Si-mrax, Zjangh-kuan Qu-jang.
-Ghrax-ghu Cjo-kat, Myon-njin Tung-pyang.
-Hrak-lien Ghuang-pyox, Qyot-drii Kung-jang.
-Dam-dai Kung-jax, Cuung-cjengh Puk-jang.
-Zjyn-yo Zjen-yo, Thad-sjuk Sjin-do.
-Kung-suon Driungh-suon, Hian-yan Leng-gho.
-Cjyung-lie Yox-myon, Triangx-suon Moh-jyung.
-Sien-yo Lio-khiu, Si-do Si-khung.
-Ki-kuan Si-khuh, Cjangx Tuuk Cix-kio.
-Cjyen-suon Tuan-muk, Myo-mrax Kung-se.
-Chit-teu Ngruk-cjengh, Njangx-siih Kung-liang.
-Thak-buat Krep-kuk, Caix-pyox Kuk-liang.
-Cinh Chriox Jem Pyap, Njox Qien Do Khim.
-Duanh-kan Prak-lix, Tung-kuak Nom-muon.
-Ho-jen Kyoi Haix, Jang-zsjet Myoi-srieng.
-Ngruk Sryt Ku Khangh, Hyangh Ghux Iux Gim.
-Liang-khiu Cax-khiu, Tung-muon Se-muon.
-Sjang Miu Zja Naih, Prak Sjangx Nom-kiung.
-Mok Ngop(?) Zieu Tat, Nen Qaih Jang Duung.
-Deh-ngox Ngian Piuk, prak kra siengh cjung.
+趙錢孫李 周吳鄭王   Drieux Zien Suon Lix, Cju Ngo Driengh Yang.
+馮陳褚衛 蔣沈韓楊   Biung Drin Thriox Yed, Ciangx Sjimx Ghan Jang.
+朱秦尤許 何呂施張   Cjyo Zin Iu Hiox, Gha Liox Sje Triang.
+孔曹嚴華 金魏陶姜   Khungx Zau Ngiam Ghruah, Kim Ngyoih Dau Kiang.
+戚謝鄒喻 柏水竇章   Chek Zsiah Criu Jyoh, Prak Sjyix Duh Cjang.
+雲蘇潘葛 奚范彭郎   Yon So Phuan Kat, Ghe Byamx Brang Lang.
+魯韋昌馬 苗鳳花方   Lox Yoi Chjang Mrax, Mieu Biungh Hrua Pyang.
+俞任袁柳 酆鮑史唐   Jyo Njim Yan Liux, Phiung Braux Srix Dang.
+費廉岑薛 雷賀倪湯   Byoih Liem Zrim Siet, Luai Ghah Nge Thang.
+滕殷羅畢 郝鄔安常   Dong Qion La Pjit, Hak Qox Qan Zjang.
+樂于時傅 皮卞齊康   Ngruk Yo Zji Pyoh, Bie Bienh Ze Khang.
+伍余元卜 顧孟平黃   Ngox Jo Ngyan Puk, Koh Mrangh Bieng Ghuang.
+和穆蕭尹 姚邵湛汪   Ghua Miuk Seu Jynx, Jeu Zjeuh Dremx Quang.
+祁毛禹狄 米貝明臧   Gii Mau Yox Dek, Mex Pad Mieng Cang.
+計伏成戴 談宋茅龐   Keh Biuk Zjeng Taih, Dam Suungh Mrau Brung.
+熊紀舒屈 項祝董梁   Iung Kix Sjo Kyot, Ghrungx Cjuk Tungx Liang.
+杜阮藍閔 席季麻強   Dox Ngyanx Lam Minx, Zsiek Kjyih Mra Giang.
+賈路婁危 江童顏郭   Krax Loh Lu Ngye, Krung Dung Ngran Kuak.
+梅盛林刁 鍾徐邱駱   Muai Zjengh Lim Teu, Cjyung Zsio Khiu Lak.
+高夏蔡田 樊胡凌霍   Kau Ghrax Chad Den, Byan Gho Ling Huak.
+虞萬支柯 昝管盧莫   Ngyo Myanh Cje Ka, Comx Kuanx Lo Mak.
+經房裘繆 干解應宗   Keng Byang Giu Myh, Kan Ghrex Qing Cuung.
+丁宣賁鄧 郁單杭洪   Teng Syen Puon/Byoi/Pieh Dongh, Qiuk Zjenx Ghang Ghung.
+包諸左石 崔吉鈕龔   Prau Cjo Cax Zjek, Chuai Kjit Nriux Kyung.
+程嵇邢滑 裴陸榮翁   Drieng Ghe Gheng Ghruet, Buai Liuk Yeng Qung.
+荀羊於惠 甄麴家封   Zsyn Jang Qio Ghueh, Cjin Khiuk Kra Pyung.
+芮羿儲靳 汲邴糜松   Njyed Ngeh Drio Kionh, Kip Piengx Mie Zsyung.
+井段富巫 烏焦巴弓   Ciengx Duanh Piuh Myo, Qo Cieu Pra Kiung.
+牧隗山谷 車侯虙蓬   Miuk Nguaix Sren Kuk, Chja Ghu Biuk Bung.
+全郗班仰 秋仲伊宮   Zyen Thrii Pran Ngiangx, Chiu Driungh Qjii Kiung.
+甯仇欒暴 甘鈄厲戎   Nengh Giu Luan Bauh, Kam Thux Lied Njung.
+祖武符劉 景詹束龍   Cox Myox Byo Liu, Kiengx Cjem Sjyuk Lyung.
+葉幸司韶 郜黎薊薄   Jep Ghrengx Si Zjeu, Kauh Le Keh Bak.
+印宿白懷 蒲邰從鄂   Qjinh Siuk Brak Ghruai, Bo Thai Zyung Ngak.
+索咸籍賴 卓藺屠蒙   Sak Ghrem Ziek Lad, Truk Linh Do Mung.
+池喬陰鬱 胥能蒼雙   Drie Gieu Qim Qyot, Sio Naih Chang Srung.
+聞莘黨翟 譚貢勞逄   Myon Srin Tangx Drak/Dek, Dom Kungh Lau Brung.
+姬申扶堵 冉宰酈雍   Ki Sjin Byo Tox, Njemx Caix Lek Qyung.
+郤璩桑桂 濮牛壽通   Khiek Gio Sang Kueh, Puk Ngiu Zjux Thung.
+邊扈燕冀 郟浦尚農   Pen Ghox Qen Kiih, Krep Phox Zjangh Nuung.
+溫別莊晏 柴瞿閻充   Quon Biet Criang Qranh, Zre Gyo Jem Chjung.
+慕連茹習 宦艾魚容   Moh Lien Njo Zsip, Ghruanh Ngad Ngio Jyung.
+向古易慎 戈廖庾終   Sjangh Kox Jek Zjinh, Kua Liuh Jyox Cjung.
+暨居衡步 都耿滿弘   Kiot Kio Ghrang Boh, To Krengx Muanx Ghuong.
+匡國文寇 廣祿闕東   Khyang Kuok Myon Khuh, Kuangx Luk Khyat Tung.
+歐殳沃利 蔚越夔隆   Qu Zjyo Quuk Liih, Qyot Yat Gyi Liung.
+師鞏厙聶 晁勾敖融   Srii Kyungx Sjah Nriep, Drieu Ku Ngau Jung.
+冷訾辛闞 那簡饒空   Lengx Cie Sin Khamh, Na Krenx Njeu Khung.
+曾毋沙乜 養鞠須豐   Cong Myo Sra Mjax, Jangx Kiuk Syo Phiung.
+巢關蒯相 查后荊紅   Zrau Kruan Khruaih Siangh, Zra Ghux Kieng Ghung.
+游竺權逯 蓋益桓公   Ju Triuk Gyen Lyuk, Kap Qjek Ghuan Kung.
+万俟司馬 上官歐陽   Mok-gioi Si-mrax, Zjangh-kuan Qu-jang.
+夏侯諸葛 聞人東方   Ghrax-ghu Cjo-kat, Myon-njin Tung-pyang.
+赫連皇甫 尉遲公羊   Hrak-lien Ghuang-pyox, Qyot-drii Kung-jang.
+澹臺公冶 宗政濮陽   Dam-dai Kung-jax, Cuung-cjengh Puk-jang.
+淳于單于 太叔申屠   Zjyn-yo Zjen-yo, Thad-sjuk Sjin-do.
+公孫仲孫 軒轅令狐   Kung-suon Driungh-suon, Hian-yan Leng-gho.
+鐘離宇文 長孫慕容   Cjyung-lie Yox-myon, Triangx-suon Moh-jyung.
+鮮于閭丘 司徒司空   Sien-yo Lio-khiu, Si-do Si-khung.
+丌官司寇 仉督子車   Ki-kuan Si-khuh, Cjangx Tuuk Cix-kio.
+顓孫端木 巫馬公西   Cjyen-suon Tuan-muk, Myo-mrax Kung-se.
+漆雕樂正 壤駟公良   Chit-teu Ngruk-cjengh, Njangx-siih Kung-liang.
+拓跋夾谷 宰父穀粱   Thak-buat Krep-kuk, Caix-pyox Kuk-liang.
+晉楚閆法 汝鄢涂欽   Cinh Chriox Jem Pyap, Njox Qien Do Khim.
+段干百里 東郭南門   Duanh-kan Prak-lix, Tung-kuak Nom-muon.
+呼延歸海 羊舌微生   Ho-jen Kyoi Haix, Jang-zsjet Myoi-srieng.
+岳帥緱亢 況郈有琴   Ngruk Sryt Ku Khangh, Hyangh Ghux Iux Gim.
+梁丘左丘 東門西門   Liang-khiu Cax-khiu, Tung-muon Se-muon.
+商牟佘佴 伯賞南宮   Sjang Miu Zja Naih, Prak Sjangx Nom-kiung.
+墨哈譙笪 年愛陽佟   Mok Ngop(?) Zieu Tat, Nen Qaih Jang Duung.
+第五言福 百家姓終   Deh-ngox Ngian Piuk, prak kra siengh cjung.
