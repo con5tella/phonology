@@ -1,69 +1,320 @@
+Polyhedron 擬音
+
+千字文
+	chen zih myon
+
 天地玄黃，宇宙洪荒。
 日月盈昃，辰宿列張。
-then diih ghuen ghuang, yox driuh ghung huang. 
-njit ngyat jeng crik, zjin siuh liet triang.
+	then diih ghuen ghuang, yox driuh ghung huang.
+	njit ngyat jeng crik, zjin siuh liet triang.
 
-寒來暑往，秋收冬藏。閏餘成歲，律呂調陽。	ghan lai sjox yangx, chiu sju tuung zang. njynh jo zjeng syed, lyt liox deu jang.
-雲騰致雨，露結爲霜。金生麗水，玉出崑岡。	yon dong triih yox, loh ket ye sriang. kim srieng leh sjyix, ngyuk chjyt kuon kang.
-劍號巨闕，珠稱夜光。果珍李柰，菜重芥薑。	kiamh ghauh giox khyat, cjyo chjing jah kuang. kuax trin lix nad, chaih dryungh kraih kiang.
-海鹹河淡，鱗潛羽翔。龍師火帝，鳥官人皇。	haix ghrem gha damh, lin ziem yox zsiang. lyung srii huax teh, teux kuan njin ghuang.
-始制文字，乃服衣裳。推位讓國，有虞陶唐。	sjix cjed myon zih, naix biuk qioi zjang. thuai yih njangh kuok, iux ngyo dau dang.
-弔民伐罪，周發商湯。坐朝問道，垂拱平章。	teuh mjin byat zuaix, cju pyat sjang thang. zuax drieu myonh daux, zjye kyungx bieng cjang.
-愛育黎首，臣伏戎羌。遐邇壹體，率賓歸王。	qaih juk le sjux, zjin biuk njung khiang. ghra njex qjit thex, sryt pjin kyoi yang.
-鳴鳳在樹，白駒食場。化被草木，賴及萬方。	mieng biungh zaix zjyoh, brak kyo zsjik driang. hruah biex chaux muk, lad gip myanh pyang.
-蓋此身髮，四大五常。恭惟鞠養，豈敢毀傷。	kad chiex sjin pyat, siih dad ngox zjang. kyung jyi kiuk jangx, khioix kamx hyex sjang.
-女慕貞烈，男效才良。知過必改，得能莫忘。	nriox moh trieng liet, nom ghrauh zai liang. trie kuah pjit kaix, tok nong mak myang.
-罔談彼短，靡恃己長。信使可覆，器欲難量。	myangx dam piex tuanx, miex zjix kix driang. sinh srix khax phiuk, khiih jyuk nan liang.
-墨悲絲染，詩讃羔羊。mok pii si njemx, sji canh kau jang.
-景行維賢，克念作聖。德建名立，形端表正。	kiengx ghrangh jyi ghen, khok nemh cak sjengh. tok kianh mjeng lip, gheng tuan pieux cjengh.
-空谷傳聲，虛堂習聽。禍因惡積，福緣善慶。	khung kuk dryen sjeng, hio dang zsip thengh. ghuax qjin qak ciek, piuk jyen zjenx khiengh.
-尺璧非寶，寸陰是競。資父事君，曰嚴與敬。	chjek pjek pyoi paux, chuonh qim zjex giengh. cii byox zrih kyon, yat ngiam jox kiengh.
-孝當竭力，忠則盡命。臨深履薄，夙興溫凊。	hrauh tang giet lik, triung cok zinx miengh. lim sjim liix bak, siuk hing quon chiengh.
-似蘭斯馨，如松之盛。川流不息，淵澄取映。	zsix lan sie heng, njo zsyung cji zjengh. chjyen liu pyot sik, quen dring chyox qiengh.
-容止若思，言辭安定。篤初誠美，慎終宜令。	jyung cjix njak si, ngian zsi qan dengh. tuuk chrio zjeng miix, zjinh cjung ngie liengh.
-榮業所基，籍甚無竟。學優登仕，攝職從政。	yeng ngiap sriox ki, ziek zjimx myo kiengh. ghruk qiu tong zrix, sjep cjik zyung cjengh.
-存以甘棠，去而益詠。	zuon jix kam dan。, khioh nji qjek yengh.
-樂殊貴賤，禮別尊卑　上和下睦　夫唱婦隨 	ngruk zjyo kyoih zienh, lex piet cuon pje. zjangx ghua ghrax miuk, pyo chjangh biux zsye.
-外受傅訓，入奉母儀　諸姑伯叔　猶子比兒 	nguad zjux pyoh hyonh, njip byungx mux ngie. cjo ko prak sjuk, ju cix pjiix nje.
-孔懷兄弟，同氣連枝　交友投分　切磨箴規 	khungx ghruai hyeng dex, dung khioih lien cje. krau iux du byonh, chet mua cjim kjye.
-仁慈隱惻，造次弗離　節義廉退　顛沛匪虧 	njin zi qionx chrik, chauh chiih pyot lie. cet ngieh liem thuaih, ten phad pyoix khye.
-性靜情逸，心動神疲　守真志滿　逐物意移 	siengh ziengx zieng jit, sim dungx zsjin bie. sjux cjin cjih muanx, driuk myot qih je.
-堅持雅操，好爵自縻 	ken dri ngrax chau, hauh ciak ziih mie.
-都邑華夏，東西二京　背邙面洛　浮渭據涇 	to qip ghrua ghrax, tung se njiih kieng. puaih myang mjenh lak, biu yoih kioh keng.
-宮殿盤鬱，樓觀飛驚　圖寫禽獸　畫綵仙靈 	kiung denh buan qyot, lu kuanh pyoi kieng. do siax gim sjuh, ghrueh chaix sien leng.
-丙舍傍啟，甲帳對楹　肆筵設席　鼓瑟吹笙 	piengx sjah bang khex, krap triangh tuaih jeng. siih jen sjet zsiek, kox srit chjye srieng.
-陞階納陛，弁轉疑星　右通廣內　左達承明 	sjing krai nop bex, bienh tryenx ngi seng. iux thung kuangx nuaih, cax dat zjing mieng.
-既集墳典，亦聚群英　杜稿鍾隸　漆書壁經 	kioih zip byon tenx, jek zyox gyon qieng. dox kaux cjyung leh, chit sjo pek keng.
-府羅將相，路俠槐卿　戶封八縣　家給千兵 	pyox la ciangh siangh, loh ghep ghruai khieng. ghox pyung pret ghuenh, kra kip chen pieng.
-高冠陪輦，驅轂振纓　世祿侈富　車駕肥輕 	kau kuan buai lienx, khyo kuk cjinh qjeng. sjed luk chjex piuh, chja krah byoi khjeng.
-策功茂實，勒碑刻銘　磻溪伊尹　佐時阿衡 	chrek kung muh zsjit, lok pie khok meng. buan khe qjii jynx, cah zji qa ghrang.
-奄宅曲阜，微旦孰營　桓公匡合　濟弱扶傾 	qiemx drak kyuk biux, myoi tanh zjuk jyeng. ghuan kung khyang ghop, ceh njak byo khjyeng.
-綺迴漢惠，說感武丁　俊乂密勿　多士寔寧 	khiex ghuai hanh ghueh, jyet komx myox teng. cynh ngiad mit myot, ta zrix zjik neng.
-晉楚更霸，趙魏困橫　假途滅虢　踐土會盟 	cinh chriox krang prah, drieux ngyoih khuonh ghruang. krah do mjet kruak, zienx thox ghuad mieng.
-何遵約法，韓弊煩刑　起翦頗牧　用軍最精 	gha cyn qiak pyap, ghan bjed byan gheng. khix cienx phua miuk, jyungh kyon cuad cieng.
-宣威沙漠，馳譽丹青　九州禹跡　百郡秦并 	syen qyoi sra mak, drie joh tan cheng. kiux cju yox ciek, prak gyonh zin pjeng.
-嶽宗恆岱，禪主云亭　雁門紫塞　雞田赤城 	ngruk cuung ghong daih, zjenh cjyox yon deng. ngranh muon ciex saih, ke den chjek zjeng.
-昆池碣石，鉅野洞庭　曠遠綿邈　巖岫杳冥 	kuon drie giat zjek, giox jax dungh deng. khuangh yanx mjen mruk, ngram zsiuh qeux meng.
-治本於農，務茲稼穡　俶載南畝　我藝黍稷 	drih pyonx qio nuung, myoh ci krah srik. chjuk caih nom mux, ngax ngjed sjox cik.
-稅熟貢新，勸賞黜陟　孟軻敦素　史魚秉直 	sjyed zjuk kungh sin, khyanh sjangx thryt trik. mrangh khah tuon soh, srix ngio piengx drik.
-庶幾中庸，勞謙謹敕　聆音察理　鑑貌辨色 	sjoh kioi triung jyung, lau khem kionx thrik. leng qim chret lix, kramh mrauh bienx srik.
-貽厥嘉猷，勉其祗植　省躬譏誡　寵增抗極 	ji kyat kra ju, mienx gi cjii zjik. siengx kiung kioi kraih, thryungx cong khangh gik.
-殆辱近恥，林皋幸即　兩疏見機　解組誰逼 	daix njyuk gionx thrix, lim kau ghrengx cik. liangx srio kenh kioi, krex cox zjyi pik.
-索居閒處，沈默寂寥　求古尋論　散慮逍遙 	sak kio ghren chjox, drim mok zek leu. giu kox zsim luon, sanh lioh sieu jeu.
-欣奏累遣，慼謝歡招　渠荷的歷　園莽抽條 	hion cuh lyex khjenx, chek zsiah huan cjeu. gio gha tek lek, yan mangx thriu deu.
-枇杷晚翠，梧桐早凋　陳根委翳　落葉飄颻 	bjii bra myanx chyih, ngo dung caux teu. drin kon qyex qeh, lak jep phjeu jeu.
-游鵾獨運，凌摩絳霄 	ju kuon duk yonh, ling mua krungh sieu.
-耽讀翫市，寓目囊箱　易輶攸畏　屬耳垣牆 	tom duk nguanh zjix, ngyoh miuk nang siang. jeh ju ju qyoih, zjyuk njix yan ziang.
-具膳湌飯，適口充腸　飽飫烹宰　飢厭糟糠 	gyoh zjenh chan byanx, sjek khux chjung driang. praux qioh phrang caix, kii qjemh cau khang.
-親戚故舊，老少異糧　妾御績紡　侍巾帷房 	chin chek koh giuh, laux sjeuh jih liang. chiep ngioh cek phyangx, zjih kin yi byang.
-紈扇圓絜，銀燭煒煌　晝眠夕寐　藍筍象床 	ghuan sjenh yen ket, ngin cjyuk yoix ghuang. triuh men zsiek mjiih, lam synx zsiangx zriang.
-弦歌酒讌，接杯舉觴　矯手頓足　悅豫且康 	ghen ka ciux qenh, ciep puai kiox sjang. kieux sjux tuonh cyuk, jyet joh chiax khang.
-嫡後嗣續，祭祀烝嘗　稽顙再拜　悚懼恐惶 	tek ghux zsih zsyuk, cied zsix cjing zjang. khex sangx caih praih, syungx gyoh khyungx ghuang.
-牋牒簡要，顧答審詳　骸垢想浴　執熱願涼 	cen dep krenx qjeuh, koh top sjimx zsiang. ghrai kux siangx jyuk, cjip njet ngyanh liang.
-驢騾犢特，駭躍超驤　誅斬賊盜　捕獲叛亡 	lio lua duk dok, ghraix jak thrieu siang. tryo cremx zok dauh, boh ghruek buanh myang.
-布射遼丸，嵇琴阮嘯　恬筆倫紙　鈞巧任釣 	poh zsjah leu ghuan, ghe gim ngyanx seuh. dem pit lyn ciex, kjyn khraux njim teuh.
-釋紛利俗，並皆佳妙　毛施淑姿　工顰妍笑 	sjek phyon liih zsyuk, bengx krai kre mjeuh. mau sje zjuk cii, kung bjin ngen sieuh.
-年矢每催，曦暉朗耀　璇璣懸斡　晦魄環照 	nen sjiix muaix chuai, hie hyoi langx jeuh. zsyen kioi ghuen quat, huaih phrak ghruan cjeuh.
-指薪修祜，永綏吉劭　矩步引領　俯仰廊廟 	cjiix sin siu ghox, yengx syi kjit zjeuh. kyox boh jinx liengx, pyox ngiangx lang mieuh.
-束帶矜莊，徘徊瞻眺　孤陋寡聞　愚蒙等誚 	sjyuk tad king criang, buai ghuai cjem theuh. ko luh kruax myon, ngyo mung tongx zieuh.
-謂語助者，焉哉乎也 	yoih ngiox zrioh cjax, qien cai gho jax.
+寒來暑往，秋收冬藏。
+閏餘成歲，律呂調陽。
+	ghan lai sjox yangx, chiu sju tuung zang.
+	njynh jo zjeng syed, lyt liox deu jang.
+
+雲騰致雨，露結爲霜。
+金生麗水，玉出崑岡。
+	yon dong triih yox, loh ket ye sriang.
+	kim srieng leh sjyix, ngyuk chjyt kuon kang.
+
+劍號巨闕，珠稱夜光。
+果珍李柰，菜重芥薑。
+	kiamh ghauh giox khyat, cjyo chjing jah kuang.
+	kuax trin lix nad, chaih dryungh kraih kiang.
+
+海鹹河淡，鱗潛羽翔。
+龍師火帝，鳥官人皇。
+	haix ghrem gha damh, lin ziem yox zsiang.
+	lyung srii huax teh, teux kuan njin ghuang.
+
+始制文字，乃服衣裳。
+推位讓國，有虞陶唐。
+	sjix cjed myon zih, naix biuk qioi zjang.
+	thuai yih njangh kuok, iux ngyo dau dang.
+
+弔民伐罪，周發商湯。
+坐朝問道，垂拱平章。
+	teuh mjin byat zuaix, cju pyat sjang thang.
+	zuax drieu myonh daux, zjye kyungx bieng cjang.
+
+愛育黎首，臣伏戎羌。
+遐邇壹體，率賓歸王。
+	qaih juk le sjux, zjin biuk njung khiang.
+	ghra njex qjit thex, sryt pjin kyoi yang.
+
+鳴鳳在樹，白駒食場。
+化被草木，賴及萬方。
+	mieng biungh zaix zjyoh, brak kyo zsjik driang.
+	hruah biex chaux muk, lad gip myanh pyang.
+
+蓋此身髮，四大五常。
+恭惟鞠養，豈敢毀傷。
+	kad chiex sjin pyat, siih dad ngox zjang.
+	kyung jyi kiuk jangx, khioix kamx hyex sjang.
+
+女慕貞烈，男效才良。
+知過必改，得能莫忘。
+	nriox moh trieng liet, nom ghrauh zai liang.
+	trie kuah pjit kaix, tok nong mak myang.
+
+罔談彼短，靡恃己長。
+信使可覆，器欲難量。
+	myangx dam piex tuanx, miex zjix kix driang.
+	sinh srix khax phiuk, khiih jyuk nan liang.
+
+墨悲絲染，詩讃羔羊。
+	mok pii si njemx, sji canh kau jang.
+
+景行維賢，克念作聖。
+德建名立，形端表正。
+	kiengx ghrangh jyi ghen, khok nemh cak sjengh.
+	tok kianh mjeng lip, gheng tuan pieux cjengh.
+
+空谷傳聲，虛堂習聽。
+禍因惡積，福緣善慶。
+	khung kuk dryen sjeng, hio dang zsip thengh.
+	ghuax qjin qak ciek, piuk jyen zjenx khiengh.
+
+尺璧非寶，寸陰是競。
+資父事君，曰嚴與敬。
+	chjek pjek pyoi paux, chuonh qim zjex giengh.
+	cii byox zrih kyon, yat ngiam jox kiengh.
+
+孝當竭力，忠則盡命。
+臨深履薄，夙興溫凊。
+	hrauh tang giet lik, triung cok zinx miengh.
+	lim sjim liix bak, siuk hing quon chiengh.
+
+似蘭斯馨，如松之盛。
+川流不息，淵澄取映。
+	zsix lan sie heng, njo zsyung cji zjengh.
+	chjyen liu pyot sik, quen dring chyox qiengh.
+
+容止若思，言辭安定。
+篤初誠美，慎終宜令。
+	jyung cjix njak si, ngian zsi qan dengh.
+	tuuk chrio zjeng miix, zjinh cjung ngie liengh.
+
+榮業所基，籍甚無竟。
+學優登仕，攝職從政。
+	yeng ngiap sriox ki, ziek zjimx myo kiengh.
+	ghruk qiu tong zrix, sjep cjik zyung cjengh.
+
+存以甘棠，去而益詠。
+	zuon jix kam dan。
+, khioh nji qjek yengh.
+
+樂殊貴賤，禮別尊卑。
+上和下睦，夫唱婦隨。
+	ngruk zjyo kyoih zienh, lex piet cuon pje.
+	zjangx ghua ghrax miuk, pyo chjangh biux zsye.
+
+外受傅訓，入奉母儀。
+諸姑伯叔，猶子比兒。
+	nguad zjux pyoh hyonh, njip byungx mux ngie.
+	cjo ko prak sjuk, ju cix pjiix nje.
+
+孔懷兄弟，同氣連枝。
+交友投分，切磨箴規。
+	khungx ghruai hyeng dex, dung khioih lien cje.
+	krau iux du byonh, chet mua cjim kjye.
+
+仁慈隱惻，造次弗離。
+節義廉退，顛沛匪虧。
+	njin zi qionx chrik, chauh chiih pyot lie.
+	cet ngieh liem thuaih, ten phad pyoix khye.
+
+性靜情逸，心動神疲。
+守真志滿，逐物意移。
+	siengh ziengx zieng jit, sim dungx zsjin bie.
+	sjux cjin cjih muanx, driuk myot qih je.
+
+堅持雅操，好爵自縻。
+	ken dri ngrax chau, hauh ciak ziih mie.
+
+都邑華夏，東西二京。
+背邙面洛，浮渭據涇。
+	to qip ghrua ghrax, tung se njiih kieng.
+	puaih myang mjenh lak, biu yoih kioh keng.
+
+宮殿盤鬱，樓觀飛驚。
+圖寫禽獸，畫綵仙靈。
+	kiung denh buan qyot, lu kuanh pyoi kieng.
+	do siax gim sjuh, ghrueh chaix sien leng.
+
+丙舍傍啟，甲帳對楹。
+肆筵設席，鼓瑟吹笙。
+	piengx sjah bang khex, krap triangh tuaih jeng.
+	siih jen sjet zsiek, kox srit chjye srieng.
+
+陞階納陛，弁轉疑星。
+右通廣內，左達承明。
+	sjing krai nop bex, bienh tryenx ngi seng.
+	iux thung kuangx nuaih, cax dat zjing mieng.
+
+既集墳典，亦聚群英。
+杜稿鍾隸，漆書壁經。
+	kioih zip byon tenx, jek zyox gyon qieng.
+	dox kaux cjyung leh, chit sjo pek keng.
+
+府羅將相，路俠槐卿。
+戶封八縣，家給千兵。
+	pyox la ciangh siangh, loh ghep ghruai khieng.
+	ghox pyung pret ghuenh, kra kip chen pieng.
+
+高冠陪輦，驅轂振纓。
+世祿侈富，車駕肥輕。
+	kau kuan buai lienx, khyo kuk cjinh qjeng.
+	sjed luk chjex piuh, chja krah byoi khjeng.
+
+策功茂實，勒碑刻銘。
+磻溪伊尹，佐時阿衡。
+	chrek kung muh zsjit, lok pie khok meng.
+	buan khe qjii jynx, cah zji qa ghrang.
+
+奄宅曲阜，微旦孰營。
+桓公匡合，濟弱扶傾。
+	qiemx drak kyuk biux, myoi tanh zjuk jyeng.
+	ghuan kung khyang ghop, ceh njak byo khjyeng.
+
+綺迴漢惠，說感武丁。
+俊乂密勿，多士寔寧。
+	khiex ghuai hanh ghueh, jyet komx myox teng.
+	cynh ngiad mit myot, ta zrix zjik neng.
+
+晉楚更霸，趙魏困橫。
+假途滅虢，踐土會盟。
+	cinh chriox krang prah, drieux ngyoih khuonh ghruang.
+	krah do mjet kruak, zienx thox ghuad mieng.
+
+何遵約法，韓弊煩刑。
+起翦頗牧，用軍最精。
+	gha cyn qiak pyap, ghan bjed byan gheng.
+	khix cienx phua miuk, jyungh kyon cuad cieng.
+
+宣威沙漠，馳譽丹青。
+九州禹跡，百郡秦并。
+	syen qyoi sra mak, drie joh tan cheng.
+	kiux cju yox ciek, prak gyonh zin pjeng.
+
+嶽宗恆岱，禪主云亭。
+雁門紫塞，雞田赤城。
+	ngruk cuung ghong daih, zjenh cjyox yon deng.
+	ngranh muon ciex saih, ke den chjek zjeng.
+
+昆池碣石，鉅野洞庭。
+曠遠綿邈，巖岫杳冥。
+	kuon drie giat zjek, giox jax dungh deng.
+	khuangh yanx mjen mruk, ngram zsiuh qeux meng.
+
+治本於農，務茲稼穡。
+俶載南畝，我藝黍稷。
+	drih pyonx qio nuung, myoh ci krah srik.
+	chjuk caih nom mux, ngax ngjed sjox cik.
+
+稅熟貢新，勸賞黜陟。
+孟軻敦素，史魚秉直。
+	sjyed zjuk kungh sin, khyanh sjangx thryt trik.
+	mrangh khah tuon soh, srix ngio piengx drik.
+
+庶幾中庸，勞謙謹敕。
+聆音察理，鑑貌辨色。
+	sjoh kioi triung jyung, lau khem kionx thrik.
+	leng qim chret lix, kramh mrauh bienx srik.
+
+貽厥嘉猷，勉其祗植。
+省躬譏誡，寵增抗極。
+	ji kyat kra ju, mienx gi cjii zjik.
+	siengx kiung kioi kraih, thryungx cong khangh gik.
+
+殆辱近恥，林皋幸即。
+兩疏見機，解組誰逼。
+	daix njyuk gionx thrix, lim kau ghrengx cik.
+	liangx srio kenh kioi, krex cox zjyi pik.
+
+索居閒處，沈默寂寥。
+求古尋論，散慮逍遙。
+	sak kio ghren chjox, drim mok zek leu.
+	giu kox zsim luon, sanh lioh sieu jeu.
+
+欣奏累遣，慼謝歡招。
+渠荷的歷，園莽抽條。
+	hion cuh lyex khjenx, chek zsiah huan cjeu.
+	gio gha tek lek, yan mangx thriu deu.
+
+枇杷晚翠，梧桐早凋。
+陳根委翳，落葉飄颻。
+	bjii bra myanx chyih, ngo dung caux teu.
+	drin kon qyex qeh, lak jep phjeu jeu.
+
+游鵾獨運，凌摩絳霄。
+	ju kuon duk yonh, ling mua krungh sieu.
+
+耽讀翫市，寓目囊箱。
+易輶攸畏，屬耳垣牆。
+	tom duk nguanh zjix, ngyoh miuk nang siang.
+	jeh ju ju qyoih, zjyuk njix yan ziang.
+
+具膳湌飯，適口充腸。
+飽飫烹宰，飢厭糟糠。
+	gyoh zjenh chan byanx, sjek khux chjung driang.
+	praux qioh phrang caix, kii qjemh cau khang.
+
+親戚故舊，老少異糧。
+妾御績紡，侍巾帷房。
+	chin chek koh giuh, laux sjeuh jih liang.
+	chiep ngioh cek phyangx, zjih kin yi byang.
+
+紈扇圓絜，銀燭煒煌。
+晝眠夕寐，藍筍象床。
+	ghuan sjenh yen ket, ngin cjyuk yoix ghuang.
+	triuh men zsiek mjiih, lam synx zsiangx zriang.
+
+弦歌酒讌，接杯舉觴。
+矯手頓足，悅豫且康。
+	ghen ka ciux qenh, ciep puai kiox sjang.
+	kieux sjux tuonh cyuk, jyet joh chiax khang.
+
+嫡後嗣續，祭祀烝嘗。
+稽顙再拜，悚懼恐惶。
+	tek ghux zsih zsyuk, cied zsix cjing zjang.
+	khex sangx caih praih, syungx gyoh khyungx ghuang.
+
+牋牒簡要，顧答審詳。
+骸垢想浴，執熱願涼。
+	cen dep krenx qjeuh, koh top sjimx zsiang.
+	ghrai kux siangx jyuk, cjip njet ngyanh liang.
+
+驢騾犢特，駭躍超驤。
+誅斬賊盜，捕獲叛亡。
+	lio lua duk dok, ghraix jak thrieu siang.
+	tryo cremx zok dauh, boh ghruek buanh myang.
+
+布射遼丸，嵇琴阮嘯。
+恬筆倫紙，鈞巧任釣。
+	poh zsjah leu ghuan, ghe gim ngyanx seuh.
+	dem pit lyn ciex, kjyn khraux njim teuh.
+
+釋紛利俗，並皆佳妙。
+毛施淑姿，工顰妍笑。
+	sjek phyon liih zsyuk, bengx krai kre mjeuh.
+	mau sje zjuk cii, kung bjin ngen sieuh.
+
+年矢每催，曦暉朗耀。
+璇璣懸斡，晦魄環照。
+	nen sjiix muaix chuai, hie hyoi langx jeuh.
+	zsyen kioi ghuen quat, huaih phrak ghruan cjeuh.
+
+指薪修祜，永綏吉劭。
+矩步引領，俯仰廊廟。
+	cjiix sin siu ghox, yengx syi kjit zjeuh.
+	kyox boh jinx liengx, pyox ngiangx lang mieuh.
+
+束帶矜莊，徘徊瞻眺。
+孤陋寡聞，愚蒙等誚。
+	sjyuk tad king criang, buai ghuai cjem theuh.
+	ko luh kruax myon, ngyo mung tongx zieuh.
+
+謂語助者，焉哉乎也。
+	yoih ngiox zrioh cjax, qien cai gho jax.
