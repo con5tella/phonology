@@ -1,7 +1,7 @@
 Polyhedron 擬音
 
 百家姓
-	Prak Kra Siengh
+  Prak Kra Siengh
 
 | 趙         | 錢           | 孫             | 李         | 周          | 吳      | 鄭        | 王     |
 | Drieux     | Zien         | Suon           | Lix        | Cju         | Ngo     | Driengh   | Yang   |
