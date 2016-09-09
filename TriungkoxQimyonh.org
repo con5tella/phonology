@@ -550,3 +550,44 @@
 | ry  | H    |         | 脂 B 合* |      |       | 真 B 合，諄 B | 蒸 B 合         |         |
 - A 類：韻圖四等及章組、日母、來母；B 類：韻圖二等、三等除章組、日母、來母
 - 爲充分利用 26 個字母的資源，脂韻輸入時相當於-i 尾字，冬、東三韻相當於-m 尾字
+* 韻鏡
+** 東
+|       | lung  |      | ghung  | hung   | qung  |      | sung  | zung    | chung   | cung   | ngung  |       | khung   | kung  |       | dung    | thung   | tung    | mung   | bung   |         |        |
+|       |       |      |        |        |       |      |       | zriung  |         |        |        |       |         |       |       |         |         |         |        |        |         |        |
+| njung | liung | jung | iung   |        |       |      |       |         | chjung  | cjung  | ngiung | giung | khiung  | kiung |       | driung  | thriung | triung  | miung  | biung  | phiung  | piung  |
+|       |       | jung |        |        |       |      | siung |         |         |        |        |       |         |       |       |         |         |         |        |        |         |        |
+|-------+-------+------+--------+--------+-------+------+-------+---------+---------+--------+--------+-------+---------+-------+-------+---------+---------+---------+--------+--------+---------+--------|
+|       | lungx |      | ghungx | hungx  | qungx |      | sungx |         |         | cungx  |        |       | khungx  |       | nungx | dungx   | thungx  | tungx   | mungx  | bungx  |         | pungx  |
+|       |       |      |        |        |       |      |       |         |         |        |        |       |         |       |       |         |         |         |        |        |         |        |
+|       |       |      |        |        |       |      |       |         |         |        |        |       |         |       |       |         |         |         |        |        |         |        |
+|       |       |      |        |        |       |      |       |         |         |        |        |       |         |       |       |         |         |         |        |        |         |        |
+|-------+-------+------+--------+--------+-------+------+-------+---------+---------+--------+--------+-------+---------+-------+-------+---------+---------+---------+--------+--------+---------+--------|
+|       | lungh |      | ghungh | hungh  | qungh |      | sungh | zungh   | chungh  | cungh  |        |       | khungh  | kungh | nungh | dungh   | thungh  | tungh   | mungh  | bungh  |         |        |
+|       |       |      |        |        |       |      |       | zriungh |         |        |        |       |         |       |       |         |         |         |        |        |         |        |
+|       |       |      |        | hiungh |       |      |       |         | chjungh | cjungh |        |       | khiungh |       |       | driungh |         | triungh | miungh | biungh | phiungh | piungh |
+|       |       |      |        |        |       |      |       |         | chiungh |        |        |       |         |       |       |         |         |         |        |        |         |        |
+|-------+-------+------+--------+--------+-------+------+-------+---------+---------+--------+--------+-------+---------+-------+-------+---------+---------+---------+--------+--------+---------+--------|
+|       | luk   |      | ghuk   | huk    | quk   |      | suk   | zuk     | chuk    | cuk    |        |       | khuk    | kuk   |       | duk     | thuk    | tuk     | muk    | buk    | phuk    | puk    |
+|       |       |      |        |        |       |      | sriuk |         | chriuk  | criuk  |        |       |         |       |       |         |         |         |        |        |         |        |
+| njuk  | liuk  | iuk  |        | hiuk   | qiuk  | zjuk | sjuk  |         | chjuk   | cjuk   | ngiuk  | giuk  | khiuk   | kiuk  | nriuk | driuk   | thriuk  | triuk   | miuk   | biuk   | phiuk   | piuk   |
+|       |       | juk  |        |        |       |      | siuk  | ziuk    | chiuk   | ciuk   |        |       |         |       |       |         |         |         |        |        |         |        |
+** 冬
+|         | luung  |        | ghuung  |       |        |         | suung  | zuung  | chuung   | cuung   |        |        |         | kuung  | nuung   | duung   | thuung   | tuung   |        |        |         |        |
+|         |        |        |         |       |        |         |        |        |          |         |        |        |         |        |         |         |          |         |        |        |         |        |
+| njyung  | lyung  | jyung  |         | hyung | qyung  | zjyung  | sjyung |        | chjyung  | chyung  | ngyung | gyung  | khyung  | kyung  | nryung  | dryung  | thryung  |         |        | byung  | phyung  | pyung  |
+|         |        | jyung  |         |       |        | zsyung  | syung  | zyung  | chyung   | cyung   |        |        |         |        |         |         |          |         |        |        |         |        |
+|---------+--------+--------+---------+-------+--------+---------+--------+--------+----------+---------+--------+--------+---------+--------+---------+---------+----------+---------+--------+--------+---------+--------|
+|         |        |        |         |       |        |         |        |        |          |         |        |        |         |        |         |         |          |         |        |        |         |        |
+|         |        |        |         |       |        |         |        |        |          |         |        |        |         |        |         |         |          |         |        |        |         |        |
+| njyungx | lyungx |        |         |       | qyungx | zjyungx |        |        | chjyungx | cjyungx |        | gyungx | khyungx | kyungx |         | dryungx | thryungx | tryungx |        | byungx | phyungx | pyungx |
+|         |        | jyungx |         |       |        |         | syungx |        | chyungx  | cyungx  |        |        |         |        |         |         |          |         |        |        |         |        |
+|---------+--------+--------+---------+-------+--------+---------+--------+--------+----------+---------+--------+--------+---------+--------+---------+---------+----------+---------+--------+--------+---------+--------|
+|         |        |        | ghuungh |       |        |         | suungh |        |          | cuungh  |        |        |         |        |         |         | thuungh  | tuungh  | muungh |        |         |        |
+|         |        |        |         |       |        |         |        |        |          |         |        |        |         |        |         |         |          |         |        |        |         |        |
+| njyungh | lyungh |        |         |       |        |         |        |        |          | cjyungh |        | gyungh | khyungh | kyungh | nryungh | dryungh | thryungh |         |        | byungh |         | pyungh |
+|         |        | jyungh |         |       |        | zsyungh |        | zyungh |          | cyungh  |        |        |         |        |         |         |          |         |        |        |         |        |
+|---------+--------+--------+---------+-------+--------+---------+--------+--------+----------+---------+--------+--------+---------+--------+---------+---------+----------+---------+--------+--------+---------+--------|
+|         | luuk   |        | ghuuk   | huuk  | quuk   |         | suuk   |        |          | cuuk    | nguuk  |        | khuuk   | kuuk   | nuuk    | duuk    |          | tuuk    | muuk   | buuk   | phuuk   | puuk   |
+|         |        |        |         |       |        |         |        | zryuk  | chryuk   |         |        |        |         |        |         |         |          |         |        |        |         |        |
+| njyuk   | lyuk   | jyuk   |         | hyuk  | qiuk   | zjyuk   | sjyuk  | zsjyuk | chjyuk   | cjyuk   | ngyuk  | gyuk   | khyuk   | kyuk   |         | dryuk   | thryuk   | tryuk   | myuk   | byuk   |         | pyuk   |
+|         |        |        |         |       |        | zsyuk   | syuk   |        | chyuk    | cyuk    |        |        |         |        |         |         |          |         |        |        |         |        |
