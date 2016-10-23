@@ -1,0 +1,143 @@
+#+STARTUP: indent
+* Introduction
+- Welcom to the mobile app of "Interactive Phonetics".
+- In learning phonetics, it is necessary to learn a set of symbols with witch
+  one may notate speech sounds. The most commonly used alphabet for this purpose
+  is the International Phonetic Alphabet (IPA) developed by the International
+  Phonetic Association (established 1886 in Paris).
+- The IPA contains a list of symbols (phonetic letters). Each of these letters
+  represents an unit of linguistic sound known as a phone/segment.
+* Content
+** Articulators
+- Alveolar Ridge
+- Hard Palate
+- Nasal Cavity
+- Oral Cavity
+- Lips
+- Teeth
+- Tongue
+  + tip
+  + front
+  + back
+  + root
+- Pharynx
+- Velum(soft Palate)
+- Uvula
+- Epiglottis
+- Vocal Folds
+- Glottis
+** Consonants
+- In the articulation of consonants, there is always some kind of obstruction to
+  the airflow. This obstruction may be thorough or partial. The ways
+  obstructions occur are listed vertically along the first column. These are
+  known as manners of articulation. Obstruction may occur in different regions,
+  from the lips (labial), to the teeth (dental) to the alveolar, the palate, the
+  velum, the pharynx and the glottal. These are known as places of articulation.
+*** Plosive
+**** Bilabial
+- [p]
+- [b]
+**** Alveolar
+- [t]
+-	[d]
+**** Retroflex
+- [ʈ]
+-	[ɖ]
+**** Palatal
+- [c]
+-	[ɟ]
+**** Velar
+- [k]
+-	[ɡ]
+**** Uvular
+- [q]
+-	[ɢ]
+**** Glottal
+- [ʔ]
+*** Nasal
+**** Bilabial
+- [m]
+**** Labiodental
+- [ɱ]
+**** Alveolar
+- [n]
+**** Retroflex
+- [ɳ]
+**** Palatal
+- [ɲ]
+**** Velar
+- [ŋ]
+**** Uvular
+- [ɴ]
+*** Trill
+**** Bilabial
+- [ʙ]
+**** Alveolar
+- [r]
+**** Uvular
+- [ʀ]
+*** Tap of Flap
+**** Labiodental
+- [ⱱ]
+**** Alveolar
+- [ɾ]
+**** Retroflex
+- [ɽ]
+*** Fricative
+**** Bilabial
+- [ɸ]
+- [β]
+**** Labiodental
+- [f]
+- [v]
+**** Dental
+- [θ]
+- [ð]
+**** Alveolar
+- [s]
+- [z]
+**** Postalveolar
+- [ʃ]
+-	[ʒ]
+**** Retroflex
+- [ʂ]
+-	[ʐ]
+**** Palatal
+- [ç]
+-	[ʝ]
+**** Velar
+- [x]
+-	[ɣ]
+**** Uvular
+- [χ]
+- [ʁ]
+**** Pharyngeal
+- [ħ]
+- [ʕ]
+**** Glottal
+- [h]
+-	[ɦ]
+*** Lateral Fricative
+**** Alveolar
+- [ɬ]
+-	[ɮ]
+*** Approximant
+**** Labiodental
+- [ʋ]
+**** Alveolar
+- [ɹ]
+**** Retroflex
+- [ɻ]
+**** Palatal
+- [j]
+**** Velar
+- [ɰ]
+*** Lateral Approximant
+**** Alveolar
+- [l]
+**** Retroflex
+- [ɭ]
+**** Palatal
+- [ʎ]
+**** Velar
+- [ʟ]
